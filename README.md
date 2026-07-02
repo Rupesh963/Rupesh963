@@ -283,7 +283,7 @@ I'm always open to discussing **Java Backend Development**, **Spring Boot**, **O
 
 ---
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
