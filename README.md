@@ -1,45 +1,302 @@
-# 💫 Hi 👋, I'm Rupesh Kumar
+<div align="center">
 
-**A passionate Java Backend Developer from India 🇮🇳**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Rupesh%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20Developer&descAlignY=58"/>
 
-📧 **Email:** [rup805131kr@gmail.com](mailto:rup805131kr@gmail.com)
-🤝 I'm always open to collaborating on Java, Spring Boot, and Full-Stack development projects.
+# Hi 👋, I'm Rupesh Kumar
 
-* 🔭 **I’m currently working on:** REST APIs and Backend Development with Spring Boot at Elevate Labs
-* 🌱 **I’m currently learning:** Spring AI, Microservices, System Design, and Advanced DSA
-* 👯 **I’m looking to collaborate on:** Java Backend, Spring Boot, and Full-Stack Web Applications
-* 🤔 **I’m looking for help with:** Cloud Deployment and Scalable Backend Architecture
-* 💬 **Ask me about:** Java, Spring Boot, REST APIs, React, MongoDB, MySQL, JDBC, Git, and DSA
-* 📫 **How to reach me:** [rup805131kr@gmail.com](mailto:rup805131kr@gmail.com)
-* 😄 **Pronouns:** He/Him
-* ⚡ **Fun fact:** I enjoy solving DSA problems and building real-world backend applications with clean and scalable architecture.
+### 🚀 Java Backend Developer | Spring Boot Developer
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Rupesh_963) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rupesh Kumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rup805131kr@gmail.com) 
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Java+Backend+Developer;Spring+Boot+Developer;REST+API+Developer;Backend+Problem+Solver;Always+Learning+New+Technologies" />
 
-<!-- Snake Game Repo View -->
+<br>
 
+<img src="https://komarev.com/ghpvc/?username=Rupesh963&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Rupesh963?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/Rupesh963?style=for-the-badge&logo=github"/>
+
+</div>
+
+---
+
+# 💫 About Me
+
+💻 Passionate **Java Backend Developer** with hands-on experience in developing scalable backend applications using **Spring Boot**, **REST APIs**, **JDBC**, **MongoDB**, and **MySQL**.
+
+🚀 Currently working as a **Java Developer Intern @ Elevate Labs**, where I build backend services, develop REST APIs, collaborate using Git workflows, and write production-quality code.
+
+🌱 Currently learning
+
+- Spring AI
+- Microservices
+- System Design
+- Advanced DSA
+
+🎯 My goal is to become a Software Engineer who builds scalable backend systems and real-world applications.
+
+---
+
+# 🚀 Current Focus
+
+- 🔭 Developing Backend Applications using Spring Boot
+- 🌱 Learning Spring AI & Microservices
+- ⚡ Improving DSA & Problem Solving Skills
+- 💻 Building Production Ready Projects
+- 🎯 Preparing for Software Engineering Roles
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/rupesh-kumar-2a15b6299/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rup805131kr@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Rupesh963">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Rupesh963/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/rupesh963">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<div align="center">
+
+### 👨‍💻 Programming Languages
+
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge"/>
+</p>
+
+### 🎨 Frontend Development
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
+
+### 📚 Currently Learning
+
+<p>
+<img src="https://img.shields.io/badge/Spring_AI-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microservices-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System_Design-3F51B5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rupesh963&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Rupesh963&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupesh963&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Rupesh963&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Rupesh963&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rupesh963&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+# 🏆 GitHub Trophies
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rupesh963&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://github-profile-trophy.vercel.app/?username=Rupesh963&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rupesh963&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Rupesh963&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->v
+# 🚀 Featured Projects
+---
+
+## 🍔 Food Delivery App
+
+> **A Full-Stack Food Delivery Platform built with Spring Boot & React.**
+
+### ✨ Key Features
+
+- 🔐 JWT Authentication & Authorization
+- 🍽 Restaurant & Menu Management
+- 🛒 Shopping Cart & Checkout
+- 📦 Order Management
+- 🌐 RESTful APIs
+- 📱 Responsive User Interface
+
+**Tech Stack**
+
+`Java` `Spring Boot` `React` `MongoDB` `JWT` `REST API`
+
+**Repository**
+
+<a href="https://github.com/Rupesh963/Food-Delivery-App">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+---
+
+## 🏦 ATM Simulation System
+
+> **A desktop banking application developed using Java Swing and MySQL.**
+
+### ✨ Key Features
+
+- 🔑 Secure Login System
+- 👤 Account Creation
+- 💰 Deposit & Withdrawal
+- 📄 Mini Statement
+- 💳 Balance Enquiry
+- 🔄 JDBC Database Connectivity
+
+**Tech Stack**
+
+`Java` `JDBC` `MySQL` `Java Swing`
+
+**Repository**
+
+<a href="https://github.com/Rupesh963/ATM-Simulation-System">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+---
+
+# 💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Rupesh963/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/rupesh963">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master Spring Boot
+- ✅ Learn Spring AI
+- ✅ Build Scalable Backend Applications
+- ✅ Solve 500+ DSA Problems
+- ✅ Contribute to Open Source
+- ✅ Secure a Software Engineer Role
+
+---
+
+---
+
+# 🌱 Currently Exploring
+
+<div align="center">
+
+| 🤖 AI | ☁️ Cloud | 🏗️ Architecture | 🚀 Backend |
+|:------:|:--------:|:---------------:|:----------:|
+| Spring AI | AWS Basics | Microservices | System Design |
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+I'm always open to discussing **Java Backend Development**, **Spring Boot**, **Open Source**, and exciting **Software Engineering opportunities**.
+
+<p>
+
+<a href="mailto:rup805131kr@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rupesh-kumar-2a15b6299/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Rupesh963">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+</div>
+
+---
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+
+</div>
