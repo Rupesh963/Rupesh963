@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Rupesh%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20Developer&descAlignY=58"/>
 
-# Hi 👋, I'm Rupesh Kumar
+## 👨‍💻 About Me
 
 ### 🚀 Java Backend Developer | Spring Boot Developer
 
@@ -11,10 +11,6 @@
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=Rupesh963&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/Rupesh963?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/github/stars/Rupesh963?style=for-the-badge&logo=github"/>
 
 </div>
 
