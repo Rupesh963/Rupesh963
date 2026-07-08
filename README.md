@@ -149,19 +149,6 @@
 </div>
 
 ---
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rupesh963&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"/>
-
-</div>
-
----
 
 # 🚀 Featured Projects
 ---
