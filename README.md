@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-### 🚀 Java Backend Developer | Spring Boot Developer
+### 🚀 Java Backend Developer | Spring Boot Developer 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Java+Backend+Developer;Spring+Boot+Developer;REST+API+Developer;Backend+Problem+Solver;Always+Learning+New+Technologies" />
 
@@ -173,6 +173,30 @@
 **Repository**
 
 <a href="https://github.com/Rupesh963/Food-Delivery-App">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+---
+
+## 📚 Bookstore Management API
+> **A RESTful Backend API for Managing Books & Authors, built with Spring Boot.**
+
+### ✨ Key Features
+- 📖 Book & Author Management with JPA Relationships
+- 🔄 Full CRUD Operations via RestController
+- 🔍 Filtering, Pagination & Sorting
+- ✅ Bean Validation with DTOs
+- ⚠️ Global Exception Handling
+- 📑 Swagger/OpenAPI Documentation
+- 🗄️ H2 In-Memory Database
+
+**Tech Stack**
+
+`Java` `Spring Boot` `Spring Data JPA` `H2 Database` `REST API` `Swagger` `Postman`
+
+**Repository**
+
+<a href="https://github.com/Rupesh963/Bookstore-Management-API">
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
 </a>
 
